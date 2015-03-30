@@ -11,3 +11,5 @@ class Song
     puts "Playing '#{name}' by #{artist} (#{duration} mins)..."
   end
 end
+
+
