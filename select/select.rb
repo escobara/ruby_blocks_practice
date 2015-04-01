@@ -18,7 +18,7 @@ class Select
 
 	def and(option)
 		options << option
-		# self
+		self
 	end
 
 end

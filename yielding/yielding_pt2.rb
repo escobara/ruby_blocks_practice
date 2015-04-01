@@ -7,7 +7,7 @@ end
 roll do |name, number|
 	puts "#{name} rolled a #{number}"
 	number * 2
-	"Hello"
+	# "Hello"
 end
 # Starting Method
 # Rene rolled a 3
